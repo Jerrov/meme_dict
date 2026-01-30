@@ -13,4 +13,4 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     # ¿Qué hacer si no se encuentra la palabra?
-    print("La palabra no se encuentra en este diccionario")
+    print("La palabra no se encuentra en este diccionario, por favor buscar en otra parte")
